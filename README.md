@@ -1,3 +1,6 @@
+> ⚠️ **Warning:** This project is a work in progress and not fully debugged.  
+> Use at your own risk. Features and stability may change as development continues.
+
 # Grid-Based Text Adventure Game
 
 A modular, terminal-based survival and exploration game set in a massive grid world.  
